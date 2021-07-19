@@ -1,0 +1,5 @@
+1. Open file at: Loki-Mon!\bin\Debug\Loki-Mon.exe (Application)
+2. Be sure to lower volume.
+3. Remember the strange error after the cave. Just press ok and it should be fine.
+4. If you have reached further than the first form, to close the program, you must use
+	Alt+Ctrl+Delete (Sorry)

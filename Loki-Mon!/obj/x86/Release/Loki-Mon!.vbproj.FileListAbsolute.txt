@@ -1,0 +1,14 @@
+E:\ICS20\Loki-Mon!\Loki-Mon!\obj\x86\Release\ResolveAssemblyReference.cache
+E:\ICS20\Loki-Mon!\Loki-Mon!\obj\x86\Release\Loki_Mon_.frmCave.resources
+E:\ICS20\Loki-Mon!\Loki-Mon!\obj\x86\Release\Loki_Mon_.frmGameOver.resources
+E:\ICS20\Loki-Mon!\Loki-Mon!\obj\x86\Release\Loki_Mon_.frmOutside.resources
+E:\ICS20\Loki-Mon!\Loki-Mon!\obj\x86\Release\Loki_Mon_.frmBattle.resources
+E:\ICS20\Loki-Mon!\Loki-Mon!\obj\x86\Release\Loki_Mon_.frmTheEnd.resources
+E:\ICS20\Loki-Mon!\Loki-Mon!\obj\x86\Release\Loki_Mon_.frmControls.resources
+E:\ICS20\Loki-Mon!\Loki-Mon!\obj\x86\Release\Loki_Mon_.frmTitleScreen.resources
+E:\ICS20\Loki-Mon!\Loki-Mon!\obj\x86\Release\Loki_Mon_.frmLokiVillage.resources
+E:\ICS20\Loki-Mon!\Loki-Mon!\obj\x86\Release\Loki_Mon_.frmStory.resources
+E:\ICS20\Loki-Mon!\Loki-Mon!\obj\x86\Release\Loki_Mon_.Resources.resources
+E:\ICS20\Loki-Mon!\Loki-Mon!\obj\x86\Release\Loki_Mon_.frmTheEndStory.resources
+E:\ICS20\Loki-Mon!\Loki-Mon!\obj\x86\Release\GenerateResource.read.1.tlog
+E:\ICS20\Loki-Mon!\Loki-Mon!\obj\x86\Release\GenerateResource.write.1.tlog
